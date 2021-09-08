@@ -24,6 +24,7 @@ const NewBookForm = () => {
         onChange={e => {
           setTitle(e.target.value);
         }}
+        required
       />
       <input
         type='text'
