@@ -1,3 +1,3 @@
 # Reading List App
 
-This app is developed while learning React contextAPI
+This app was developed while learning React-context API 
